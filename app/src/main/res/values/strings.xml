@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="toolbarTitle">Home</string>
+    <string name="total_result">Total result:</string>
+    <string name="toolbar_title_user_detail">User Details</string>
+    <string name="user_name">User name</string>
+    <string name="user_url">user URL</string>
+
+    <string-array name="sort_types">
+        <item>ID</item>
+        <item>Name</item>
+    </string-array>
+
+    <string name="total_result_">Total result: %d</string>
+    <string name="btn_try_again">Try again</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="search_hint">search by keyword...</string>
+</resources>
